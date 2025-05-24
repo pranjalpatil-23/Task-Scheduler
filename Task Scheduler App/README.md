@@ -4,12 +4,10 @@ A full-featured MERN stack application for smart task scheduling, prioritization
 
 ## Project Architecture
 
-```mermaid
-graph TD
-    A[React Frontend (client)] --|REST API|--> B[Express Backend (api)]
-    B --|Mongoose ODM|--> C[(MongoDB Database)]
-    B --|Authentication|--> D[JWT & Cookies]
-```
+[React Frontend (client)] ⟶ (REST API) ⟶ [Express Backend (api)] ⟶ (Mongoose ODM) ⟶ [MongoDB Database]
+
+[Express Backend (api)] ⟶ (Authentication) ⟶ [JWT & Cookies]
+
 ## Features
 
 - **User Authentication**
