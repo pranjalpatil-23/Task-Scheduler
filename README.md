@@ -58,7 +58,7 @@ A full-featured MERN stack application for smart task scheduling, prioritization
 ![Upcoming](Task%20Scheduler%20App/Screenshots/upcoming.png)
 
 ### All Tasks
-![All Tasks](Task%20Scheduler%20App/Screenshots/all.pn)
+![All Tasks](Task%20Scheduler%20App/Screenshots/all.png)
 
 ## Getting Started
 
