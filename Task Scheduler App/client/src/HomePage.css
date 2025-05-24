@@ -1,0 +1,62 @@
+.home-page {
+  background: #f5faff;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(25, 118, 210, 0.10);
+  padding: 2.5rem 2rem 2rem 2rem;
+  max-width: 600px;
+  margin: 2.5rem auto 2rem auto;
+  text-align: center;
+}
+.home-welcome h1 {
+  color: #1976d2;
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  letter-spacing: 1px;
+}
+.home-welcome .brand {
+  color: #1565c0;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+.home-sub {
+  color: #333;
+  font-size: 1.15rem;
+  margin-bottom: 1.5rem;
+}
+.home-features {
+  background: #e3f2fd;
+  border-radius: 12px;
+  padding: 1.5rem 1rem;
+  margin-top: 1.5rem;
+  box-shadow: 0 2px 8px rgba(25, 118, 210, 0.08);
+}
+.home-features h2 {
+  color: #1976d2;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+.home-features ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+.home-features li {
+  font-size: 1.08rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  color: #0d47a1;
+}
+@media (max-width: 700px) {
+  .home-page {
+    padding: 1.2rem 0.5rem;
+    max-width: 98vw;
+  }
+  .home-welcome h1 {
+    font-size: 1.3rem;
+  }
+}
