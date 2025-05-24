@@ -50,6 +50,16 @@ _Add screenshots of your app here for better presentation !_
 - Node.js and npm
 - MongoDB (local or cloud)
 
+### Setup Instructions
+
+**Clone the repository**
+
+   ```sh
+   git clone https://github.com/pranjalpatil-23/Task-Scheduler.git
+   cd Task-Scheduler
+   cd Task Scheduler App
+   ```
+
 ### Backend Setup
 
 1. `cd api`
