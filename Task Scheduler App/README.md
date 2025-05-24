@@ -40,7 +40,26 @@ A full-featured MERN stack application for smart task scheduling, prioritization
 
 ## Screenshots
 
-_Add screenshots of your app here for better presentation !_
+### Register Page
+![Register Page](Task%20Scheduler%20App/Screenshots/Register.png)
+
+
+### Login Page
+![Login Page](Task%20Scheduler%20App/Screenshots/Login.png)
+
+### Home Page
+![HomePage](Task%20Scheduler%20App/Screenshots/home.png)
+![HomePage2](Task%20Scheduler%20App/Screenshots/home2.png)
+
+### Add Task
+![Add Task](Task%20Scheduler%20App/Screenshots/Add_Task.png)
+
+### Upcoming Tasks(Less than 1 week deadline)
+![Upcoming](Task%20Scheduler%20App/Screenshots/upcoming.png)
+
+### All Tasks
+![All Tasks](Task%20Scheduler%20App/Screenshots/all.png)
+
 
 ## Getting Started
 
