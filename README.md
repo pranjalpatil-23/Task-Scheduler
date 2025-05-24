@@ -51,7 +51,7 @@ A full-featured MERN stack application for smart task scheduling, prioritization
 ![HomePage2](Task-Scheduler-App/Screenshots/home2.png)
 
 ### Add Task
-![Add Task](Task-Scheduler-App/Screenshots/Add_Task.png)
+![Add Task](Task Scheduler App/Screenshots/Add_Task.png)
 
 ### Upcoming Tasks(Less than 1 week deadline)
 ![Upcoming](Task-Scheduler-App/Screenshots/upcoming.png)
