@@ -17,8 +17,7 @@ A full-featured MERN stack application for smart task scheduling, prioritization
 - **Task Management**
   - Add tasks with title, description, priority, and deadline
   - View, expand, and delete tasks
-  - Mark tasks as completed (if enabled)
-  - Edit tasks (optional, if implemented)
+  - Veiw tasks with filters: Most prior first, Least prior first, Latest deadline first, Latest deadline last
 
 - **Smart Scheduling**
   - "Up Next" list: See your most urgent tasks for the upcoming week
