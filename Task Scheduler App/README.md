@@ -63,7 +63,14 @@ _Add screenshots of your app here for better presentation !_
 
 1. `cd api`
 2. Install dependencies: `npm install`
-3. Configure `.env` (see `.env.example` if provided)
+
+3.Create a `.env` file with the following content (edit values as needed):
+
+```env
+MONGO_URI=mongodb://localhost:27017/taskSchedulerDB
+PORT=5050
+JWT_SECRET=your_jwt_secret_key
+```
 4. Start server: `npm start`
    - Default: [http://localhost:5050](http://localhost:5050)
 
